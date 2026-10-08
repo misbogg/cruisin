@@ -9,4 +9,4 @@ Shared Trip Feed: Synchronized dashboard showing recent drives, driving stats, a
 
 Zero-Hassle Pairing: Connects devices instantly using a simple shared car code and driver name.
 
-Beta release coming soon.
+Beta release coming soon!
