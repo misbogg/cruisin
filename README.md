@@ -8,3 +8,5 @@ Live "Where Did I Park?" Sync: Instant car location with automated address and z
 Shared Trip Feed: Synchronized dashboard showing recent drives, driving stats, and driver profiles powered by Supabase.
 
 Zero-Hassle Pairing: Connects devices instantly using a simple shared car code and driver name.
+
+Beta release coming soon.
