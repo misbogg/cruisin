@@ -9,4 +9,6 @@ Shared Trip Feed: Synchronized dashboard showing recent drives, driving stats, a
 
 Zero-Hassle Pairing: Connects devices instantly using a simple shared car code and driver name.
 
+It runs on supabase.co, so you will need to generate your supabase and set it up corectly.
+
 Beta release coming soon!
